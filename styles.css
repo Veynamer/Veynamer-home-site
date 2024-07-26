@@ -160,8 +160,8 @@ footer {
 }
 
 .language-logo {
-    width: 50px; /* Размер логотипа */
-    height: 50px; /* Размер логотипа */
+    width: 40px; /* Размер логотипа */
+    height: 40px; /* Размер логотипа */
     margin-bottom: 5px; /* Отступ между логотипом и текстом */
 }
 
@@ -266,7 +266,7 @@ instructions {
     padding: 0px;
 }
 
-. text-instructions a {
+.text-instructions a {
     text-decoration: none;
     color: #0088cc;
     font-weight: bold;
